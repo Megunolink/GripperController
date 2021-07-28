@@ -13,5 +13,6 @@ The tutorial covers:
 * building [Arduino interfaces panels](https://www.megunolink.com/documentation/interface-panel/) in MegunoLink, using buttons, sliders and numeric controls,
 * storing configuration using our [Arduino EEPROM library](https://www.megunolink.com/documentation/arduino-libraries/eepromstore/),
 * [updating the MegunoLink interface panel controls](https://www.megunolink.com/documentation/interface-panel/arduino-update-interface-panel/) from an Arduino sketch, 
-* graphing sensor data measured on an Arduino using MegunoLink's [time plot](https://www.megunolink.com/documentation/plotting/).
+* graphing sensor data measured on an Arduino using MegunoLink's [time plot](https://www.megunolink.com/documentation/plotting/), and
+* using our [Arduino timer library](https://www.megunolink.com/documentation/arduino-libraries/arduino-timer/) to avoid blocking in the Arduino loop.
 
